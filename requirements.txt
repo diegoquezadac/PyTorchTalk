@@ -1,0 +1,6 @@
+pandas
+torch
+torchtext
+ipykernel
+pyarrow
+spacy[apple]
